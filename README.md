@@ -19,3 +19,15 @@
   </h1>
   
 </div>
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=ecf05e4773uie5xt931cpe4u30prva2qsjp157hyo90i9st5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+
+</div>
+
+---
+
+### 👨‍💻 About Me:
+I am an aspiring Data Scientist from Boston, MA <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b7611atkcre448hvjonfbn341bpy1g29xrz7ed9vp2g4p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"/>
+- :
