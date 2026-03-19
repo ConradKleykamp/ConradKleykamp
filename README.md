@@ -24,11 +24,15 @@
 
 ### 🤝 Lets Connect!
 <div>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/conrad-kleykamp/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
 
 <div>
-   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/> 
+    <a href="https://www.kaggle.com/conradkleykamp/Home">
+       <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/> 
+    </a>
 </div>
 
 <a href="https://drive.google.com/file/d/1BcG-9FZN0Mtkmzna-jqsXG9cop-zwLDQ/view?usp=sharing" download>Download my resume! </a>  
