@@ -33,8 +33,4 @@
 
 <a href="https://drive.google.com/file/d/1BcG-9FZN0Mtkmzna-jqsXG9cop-zwLDQ/view?usp=sharing" download>Download my resume! </a>  
 
----
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
