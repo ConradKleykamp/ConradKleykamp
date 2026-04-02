@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Favorite Tools:
-[![Favorite Tools](https://skillicons.dev/icons?i=py,sklearn,tensorflow,github,mysql,r)](https://skillicons.dev)
+[![Favorite Tools](https://skillicons.dev/icons?i=py,github,git,vscode,sklearn,tensorflow,mysql,r)](https://skillicons.dev)
 
 ### 🤹‍♂️ Just for Fun:
 [![Fun](https://skillicons.dev/icons?i=ableton,godot)](https://skillicons.dev)
@@ -38,7 +38,7 @@
 <a href="https://drive.google.com/file/d/1BcG-9FZN0Mtkmzna-jqsXG9cop-zwLDQ/view?usp=sharing" download>Download my resume! </a>
 
 <div>
-    Last updated: 5/23/26
+    Last updated: 4/2/26
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
